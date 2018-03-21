@@ -1,6 +1,11 @@
 Jenkins Groovy Scripts
 ======================
 
+Groovy Reference
+----------------
+
+- `Groovy Documentation <http://groovy-lang.org/documentation.html>`_
+
 Jenkins API Reference
 ---------------------
 
@@ -18,6 +23,15 @@ Jenkins API Reference
   - `Node <http://javadoc.jenkins-ci.org/hudson/model/Node.html>`_
   - `Run <http://javadoc.jenkins-ci.org/hudson/model/Run.html>`_
   - `Slave <http://javadoc.jenkins-ci.org/hudson/model/Slave.html>`_
+
+
+Jenkins assets
+--------------
+
+- `Images and icons
+  <https://github.com/jenkinsci/jenkins/tree/master/war/src/main/webapp/images>`_
+- `16x16 icons
+  <https://github.com/jenkinsci/jenkins/tree/master/war/src/main/webapp/images/16x16>`_
 
 
 Jenkins script snippets
@@ -43,3 +57,26 @@ Script console
   <https://wiki.jenkins.io/display/JENKINS/Display+Information+About+Nodes>`_
 - `Wipe workspaces for a set of jobs on all nodes
   <https://wiki.jenkins.io/display/JENKINS/Wipe+workspaces+for+a+set+of+jobs+on+all+nodes>`_
+
+
+Plugins and scripting
+---------------------
+
+Extended E-Mail Plugin
+~~~~~~~~~~~~~~~~~~~~~~
+
+- `Mail templates
+  <https://github.com/jenkinsci/email-ext-plugin/tree/master/src/main/resources/hudson/plugins/emailext/templates>`_
+- `Using Groovy with Hudson to send rich text email
+  <https://techkriti.wordpress.com/2008/08/30/using-groovy-with-hudson-to-send-rich-text-email/>`_
+
+
+Groovy Postbuild Plugin
+~~~~~~~~~~~~~~~~~~~~~~~
+
+- `Groovy Postbuild Plugin
+  <https://wiki.jenkins.io/display/JENKINS/Groovy+Postbuild+Plugin>`_ page
+- `jenkinsci/groovy-postbuild-plugin
+  <https://github.com/jenkinsci/groovy-postbuild-plugin>`_ on Github
+- `Classes and Actions
+  <https://github.com/jenkinsci/groovy-postbuild-plugin/tree/master/src/main/java/org/jvnet/hudson/plugins/groovypostbuild>`_
