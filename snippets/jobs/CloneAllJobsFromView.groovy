@@ -27,7 +27,7 @@ for (item in view.getItems()) {
   job.disabled = true
   job.save()
   
-  // replace the SpyCI product in the Shell task
+  // replace the project name in a Shell task
   for (builder in job.getBuilders()) {
     if (! (builder instanceof hudson.tasks.Shell)) {
       continue
