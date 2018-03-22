@@ -18,7 +18,7 @@ Jenkins API Reference
     - `UpstreamCause <http://javadoc.jenkins-ci.org/hudson/model/Cause.UpstreamCause.html>`_
     - `UserIdCause <http://javadoc.jenkins-ci.org/hudson/model/Cause.UserIdCause.html>`_
 
-  - `Computer <http://javadoc.jenkins-ci.org/hudson/model/Computer.html>`
+  - `Computer <http://javadoc.jenkins-ci.org/hudson/model/Computer.html>`_
   - `Job <http://javadoc.jenkins-ci.org/hudson/model/Job.html>`_
   - `Node <http://javadoc.jenkins-ci.org/hudson/model/Node.html>`_
   - `Run <http://javadoc.jenkins-ci.org/hudson/model/Run.html>`_
@@ -39,7 +39,7 @@ Jenkins Pipelines
 
 - `Pipeline <https://jenkins.io/doc/book/pipeline/>`_
 - `Getting started with Pipeline
-  <https://jenkins.io/doc/book/pipeline/getting-started/>_
+  <https://jenkins.io/doc/book/pipeline/getting-started/>`_
 - `Extending with shared libraries
   <https://jenkins.io/doc/book/pipeline/shared-libraries/>`_
 - `Pipeline: Shared Groovy Libraries Plugin
