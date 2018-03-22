@@ -34,6 +34,19 @@ Jenkins assets
   <https://github.com/jenkinsci/jenkins/tree/master/war/src/main/webapp/images/16x16>`_
 
 
+Jenkins Pipelines
+-----------------
+
+- `Pipeline <https://jenkins.io/doc/book/pipeline/>`_
+- `Getting started with Pipeline
+  <https://jenkins.io/doc/book/pipeline/getting-started/>_
+- `Extending with shared libraries
+  <https://jenkins.io/doc/book/pipeline/shared-libraries/>`_
+- `Pipeline: Shared Groovy Libraries Plugin
+  <https://plugins.jenkins.io/workflow-cps-global-lib>`_,
+  (`repository <https://github.com/jenkinsci/workflow-cps-global-lib-plugin>`_)
+
+
 Jenkins script snippets
 -----------------------
 
